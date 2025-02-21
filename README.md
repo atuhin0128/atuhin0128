@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Tuhin Ahmed</h1>
-<h3 align="center">A passionate SQA Engineer</h3>
+<h3 align="center">Where Quality Meets Code | QA Engineer | Advocate of Clean and Bug-Free Software| QA Engineer at Heart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atuhin0128&label=Profile%20views&color=0e75b6&style=flat" alt="atuhin0128" /> </p>
 
